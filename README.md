@@ -1,14 +1,12 @@
 # Welcome!
-- 👋 Hi, I’m @Francis-Souza
+- 👋 Hi, I’m Francislei Souza
 - I'm Back-End Developer!
 - I’m from Brazil.
 - I’m currently learning everything.
-- create a new project and find a new job.
 - 💞️ I’m looking to collaborate on new project
 - 👀 I’m interested in learning more about java, spring, hibernate
 - 🌱 I’m currently learning Spring Boot
-
-- 📫 How to reach me francisleisouza@gamil.com
+- 📫 How to reach me francisleisouza@gmail.com
 
 <!---
 Francis-Souza/Francis-Souza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
