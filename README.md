@@ -1,12 +1,13 @@
 # Welcome!
+- 👋 Hi, I’m @Francis-Souza
 - I'm Back-End Developer!
 - I’m from Brazil.
 - I’m currently learning everything.
 - create a new project and find a new job.
-- 👋 Hi, I’m @Francis-Souza
-- 👀 I’m interested in ...
+- 💞️ I’m looking to collaborate on new project
+- 👀 I’m interested in learning more about java, spring, hibernate
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me ...
 
 <!---
