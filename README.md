@@ -1,8 +1,8 @@
 # Welcome!
 - 👋 Hi, I’m Francislei Souza
-- I'm Back-End Developer Java!
-- I’m from Brazil.
-- I’m currently learning everything.
+- :mortar_board: I'm Back-End Developer Java!
+- :brazil: I’m from Brazil.
+- :nerd_face: I’m currently learning everything.
 - 💞️ I’m looking to collaborate on new project
 - 👀 I’m interested in learning more about java, spring, hibernate
 - 🌱 I’m currently learning Spring Boot
