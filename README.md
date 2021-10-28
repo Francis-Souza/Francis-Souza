@@ -5,7 +5,7 @@
 - :nerd_face: I’m currently learning everything.
 - 💞️ I’m looking to collaborate on new project
 - :man_student: I’m interested in learning more about java, spring, hibernate
-- 🌱 I’m currently learning Spring Boot
+- :desktop_computer: I’m currently learning Spring Boot
 - 📫 How to reach me francisleisouza@gmail.com
 
 
