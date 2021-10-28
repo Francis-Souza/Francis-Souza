@@ -4,7 +4,7 @@
 - :brazil: I’m from Brazil.
 - :nerd_face: I’m currently learning everything.
 - 💞️ I’m looking to collaborate on new project
-- 👀 I’m interested in learning more about java, spring, hibernate
+- :man_student: I’m interested in learning more about java, spring, hibernate
 - 🌱 I’m currently learning Spring Boot
 - 📫 How to reach me francisleisouza@gmail.com
 
