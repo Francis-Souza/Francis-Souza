@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Francislei Souza
 - :mortar_board: I'm Back-End Developer Java!
 - :brazil: I’m from Brazil.
-- :nerd_face: I’m currently learning everything.
+- :nerd_face: I'm currently specializing in Java with spring boot framework.
 - 💞️ I’m looking to collaborate on new project
 - :man_student: I’m interested in learning more about java, spring, hibernate
 - :desktop_computer: I’m currently learning Spring Boot
