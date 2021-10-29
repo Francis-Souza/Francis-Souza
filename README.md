@@ -2,9 +2,9 @@
 - 👋 Hi, I’m Francislei Souza
 - :mortar_board: I'm Back-End Developer Java!
 - :brazil: I’m from Brazil.
-- :nerd_face: I'm currently specializing in Java with spring boot framework.
+- :nerd_face: I'm currently specializing in Java with Spring Boot Framework.
 - 💞️ I’m looking to collaborate on new project
-- :man_student: I’m interested in learning more about java, spring, hibernate
+- :man_student: I’m interested in learning more about Java, Spring Boot and dependencies, Hibernate
 - :desktop_computer: I’m currently learning Spring Boot
 - 📫 How to reach me francisleisouza@gmail.com
 
