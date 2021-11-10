@@ -9,7 +9,7 @@
 - 📫 How to reach me francisleisouza@gmail.com
 
 <div>
-<img height = "160em" src="https://github-readme-stats.vercel.app/api?username=Francis-Souza&show_icons=true&theme=gruvbox"/> &nbsp;&nbsp;
+<img height = "160em" src="https://github-readme-stats.vercel.app/api?username=Francis-Souza&show_icons=true&theme=gruvbox"/> &nbsp;&nbsp;&nbsp;
 <img height = "160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francis-Souza&layout=compact&langs_count=16&theme=gruvbox"/>
 </div>
 <br>
